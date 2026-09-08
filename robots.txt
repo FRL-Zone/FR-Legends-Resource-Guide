@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fr-legends-resource-guide.onrender.com/sitemap.xml
